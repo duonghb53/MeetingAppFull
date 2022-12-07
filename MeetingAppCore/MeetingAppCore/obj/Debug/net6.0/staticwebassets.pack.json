@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\TextFile.txt",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\TextFile.txt"
+    },
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\admin_2021-11-46.webm",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\admin_2021-11-46.webm"
+    },
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\hoainam10th_2021-11-43.webm",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\hoainam10th_2021-11-43.webm"
+    },
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\lisa_2021-11-36.webm",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\lisa_2021-11-36.webm"
+    },
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\lisa_2021-11-43.webm",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\lisa_2021-11-43.webm"
+    },
+    {
+      "Id": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\wwwroot\\UploadedRecordFiles\\ubuntu_2021-11-5.webm",
+      "PackagePath": "staticwebassets\\UploadedRecordFiles\\ubuntu_2021-11-5.webm"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MeetingAppCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MeetingAppCore.props",
+      "PackagePath": "build\\MeetingAppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MeetingAppCore.props",
+      "PackagePath": "buildMultiTargeting\\MeetingAppCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MeetingAppCore.props",
+      "PackagePath": "buildTransitive\\MeetingAppCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

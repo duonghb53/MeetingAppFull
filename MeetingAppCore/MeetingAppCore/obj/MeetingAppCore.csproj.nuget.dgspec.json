@@ -1,32 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DOTNETCORECODE\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj": {}
+    "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj": {}
   },
   "projects": {
-    "E:\\DOTNETCORECODE\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj": {
+    "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DOTNETCORECODE\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj",
+        "projectUniqueName": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj",
         "projectName": "MeetingAppCore",
-        "projectPath": "E:\\DOTNETCORECODE\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj",
-        "packagesPath": "C:\\Users\\hoain\\.nuget\\packages\\",
-        "outputPath": "E:\\DOTNETCORECODE\\MeetingAppCore\\MeetingAppCore\\obj\\",
+        "projectPath": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\MeetingAppCore.csproj",
+        "packagesPath": "C:\\Users\\duonghb\\.nuget\\packages\\",
+        "outputPath": "D:\\duonghb\\Study\\MeetingAppFull\\MeetingAppCore\\MeetingAppCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hoain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duonghb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -77,7 +80,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

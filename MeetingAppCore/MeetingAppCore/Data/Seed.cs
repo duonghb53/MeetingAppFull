@@ -30,9 +30,9 @@ namespace MeetingAppCore.Data
             }
 
             var users = new List<AppUser> {
-                new AppUser { UserName = "hoainam10th", DisplayName = "Hoài Nam" },
-                new AppUser{ UserName="ubuntu", DisplayName = "Ubuntu Nguyễn" },
-                new AppUser{UserName="lisa", DisplayName = "Lisa" }
+                new AppUser { UserName = "duonghb53", DisplayName = "Duong Ha" },
+                new AppUser{ UserName="ubuntu", DisplayName = "Ubuntu" },
+                new AppUser{UserName="daisy", DisplayName = "Daisy" }
             };
 
             foreach (var user in users)

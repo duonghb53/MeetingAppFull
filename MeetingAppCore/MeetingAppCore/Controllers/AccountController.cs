@@ -68,9 +68,9 @@ namespace MeetingAppCore.Controllers
             if (user.Locked)//true = locked
                 return BadRequest("This account is loked by admin");
 
-            var result = await _signInManager.CheckPasswordSignInAsync(user, loginDto.Password, false);
+            //var result = await _signInManager.CheckPasswordSignInAsync(user, loginDto.Password, false);
 
-            if (!result.Succeeded) return Unauthorized("Invalid password");
+            //if (!result.Succeeded) return Unauthorized("Invalid password");
 
             var userDto = new UserDto
             {
